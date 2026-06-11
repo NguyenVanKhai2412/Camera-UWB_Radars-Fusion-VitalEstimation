@@ -24,8 +24,9 @@ Measurement using Camera and Radar</b></span>.
   <em>
     Comparison of BPM Error by Input Multimodal Approaches:
     This Study (Camera & FMCW, IW-UWB Radar, and All Radars) vs. Prior Works (Camera & FMCW Radar) 
-    <a href="https://dl.acm.org/doi/10.1145/3528223.3530161">[16] EquiPleth</a>
-    and <a href="https://arxiv.org/abs/2502.13624">[17] CardiacMamba</a>
+    <a href="https://dl.acm.org/doi/10.1145/3528223.3530161">[16] EquiPleth</a>,
+    <a href="https://arxiv.org/abs/2502.13624">[17] CardiacMamba</a>
+    and <a href="https://doi.org/10.1145/3746027.3754594">[20] Evidential-Phys</a>
   </em>
 </p>
 
